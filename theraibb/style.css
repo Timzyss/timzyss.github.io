@@ -218,11 +218,13 @@ body {
 .contact .row .contact-card {
   text-align: center;
   padding-bottom: 4rem;
+  margin: 8px;
 }
 
 .contact .row .contact-card img {
   border-radius: 50%;
-  width: 80%;
+  width: 120px;
+  height: 120px;
 }
 
 .contact .row .contact-card .contact-card-title {
