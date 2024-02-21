@@ -149,6 +149,10 @@ body {
 }
 
 /* about section */
+
+/* .about {
+  background-image: url(./img/Background-about.jpg);
+} */
 .about,
 .contact {
   padding: 8rem 7% 1.4rem;
