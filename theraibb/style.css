@@ -238,6 +238,10 @@ body {
   font-family: sans-serif;
 }
 
+.contact-card-absen {
+ font-family: "Comic Sans, Apple Chancery, Bradley Hand";
+}
+
 /* Footer */
 Footer {
   background-color: #4fb6c7;
