@@ -28,7 +28,7 @@ body {
   align-items: center;
   padding: 1.4rem 7%;
   background-color: #4fb6c7;
-  border-bottom: 1px solid #513c28;
+  border-bottom: 2px solid #9900ff;
   position: fixed;
   top: 0;
   left: 0;
@@ -228,6 +228,7 @@ body {
   padding-bottom: 4rem;
   margin: 8px;
 }
+
 
 .contact .row .contact-card img {
   border-radius: 50%;
