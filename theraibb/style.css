@@ -116,6 +116,9 @@ body {
   padding: 1.4rem 7%;
   max-width: 60rem;
 }
+.hero .content p{
+  font-weight: 20px;
+}
 
 .hero .content h1 {
   font-size: 5em;
@@ -197,9 +200,8 @@ body {
 .about .row .content p {
   margin-bottom: 0.8rem;
   font-size: 1.4rem;
-  font-weight: 100;
+  font-weight: 30px;
   line-height: 1.6;
-  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 /* contact section */
@@ -211,7 +213,7 @@ body {
   text-align: center;
   max-width: 30rem;
   margin: auto;
-  font-weight: 100;
+  font-weight: 20px;
   line-height: 1.6;
   font-size: 15px;
 }
