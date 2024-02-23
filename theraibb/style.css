@@ -157,13 +157,13 @@ body {
   background-image: url(./img/Background-about.jpg);
 } */
 .about,
-.contact {
+.contact, .for-class {
   padding: 8rem 7% 1.4rem;
 }
 
 .about h2,
 .contact h2,
-.project h2 {
+.project h2, .for-class h2{
   text-align: center;
   font-size: 2.6rem;
   margin-bottom: 3rem;
@@ -209,7 +209,7 @@ body {
 }
 
 /* contact section */
-.contact h2 {
+.contact h2, .project h2 {
   margin-bottom: 1rem;
 }
 
@@ -260,7 +260,7 @@ body {
 }
 
 /* Project */
-
+/* Kata kata hari ini */
 /* Footer */
 Footer {
   background-color: #4fb6c7;
