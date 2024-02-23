@@ -218,7 +218,7 @@ body {
   max-width: 30rem;
   margin: auto;
   line-height: 1.6;
-  font-size: 15px;
+  font-size: 1.7rem;
 }
 
 .contact .row {
@@ -258,6 +258,8 @@ body {
 .contact-card-absen {
  font-family: "Comic Sans, Apple Chancery, Bradley Hand";
 }
+
+/* Project */
 
 /* Footer */
 Footer {
