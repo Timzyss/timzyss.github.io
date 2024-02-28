@@ -27,7 +27,7 @@ body {
   justify-content: space-between;
   align-items: center;
   padding: 1.4rem 7%;
-  background: linear-gradient(90deg,#00ffff, #008cff);
+  background: linear-gradient(90deg,#00ffff, #008bfd);
   border-bottom: 2px solid #9900ff;
   position: fixed;
   top: 0;
